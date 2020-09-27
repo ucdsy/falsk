@@ -1,5 +1,5 @@
-# ! pip install limesurveyrc2api                           
-# ! pip install limepy
+!pip install limesurveyrc2api                           
+!pip install limepy
 
 from limesurveyrc2api.limesurveyrc2api import LimeSurveyRemoteControl2API as LimeSurvey
 
